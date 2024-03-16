@@ -8,10 +8,10 @@
 
       <main>
         <div class="profile">
-          <img src="https://picsum.photos/414/544/?random=10">
+          <img src="../assets/115836176_3199639306752023_1962704434765069739_n.jpg">
           <h2>
             Hi, My Name is<br />
-            Charlie Cash.
+            Will Chou.
           </h2>
           <!-- <p>
             SF based. NY raised.<br />
@@ -128,7 +128,7 @@
   .profile img {
     display: block;
     border-radius: 20%;
-    max-width: 100%;
+    max-width: 80%;
     height: auto;
     margin: 0 auto;
     padding: 50px 0;
